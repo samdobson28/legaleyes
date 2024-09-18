@@ -20,15 +20,14 @@ These instructions will get your copy of legaleyes up and running on your local 
 - **Database:** MongoDB
 - **NLP/ML**: TODO
 
-### Prerequisites
+## Prerequisites
   - brew install node
   - brew install watchman
   - sudo gem install cocoapods (or install a different way. see cocoapods docs [here](https://guides.cocoapods.org/using/getting-started.html))
   - Have latest XCode installed
 
-### Installation
+## Installation
 
-## Getting Started
 >**Note**: Most of this section was pulled from the create a new React App readme, so some of the links might not be relevant, but still follow steps -1 to 3 to set up the app for development.
 
 ### Step -1
